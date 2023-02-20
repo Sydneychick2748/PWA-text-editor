@@ -60,7 +60,7 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
-This is the deployed link to Heroku to see how it is run :
+This is the deployed link to Heroku to see how it is run : https://shielded-refuge-10067.herokuapp.com/
 
 
 ## License
@@ -70,7 +70,7 @@ There is no license to this application
 
 ## Contribute
 
-If you want to Contribute then you can visit my Github here:
+If you want to Contribute then you can visit my Github here: https://github.com/Sydneychick2748/PWA-text-editor
 
 ## Questions
 
